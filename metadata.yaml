@@ -1,0 +1,32 @@
+_repo: A-Plea-for-the-Criminalof-Criminological-and-Reformatory-Science_28632
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kayll, James Leslie Allan
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '33462'
+    url: http://www.gutenberg.org/2009/agents/33462
+description: ''
+gutenberg_issued: '2009-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28632'
+  lccn: 08000475
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chapple, William Allan, 1864-1936. The fertility of the unfit'
+- !lcsh 'Crime'
+- !lcsh 'Criminals'
+- !lcc 'HV'
+- !lcsh 'Reformatories'
+title: "A Plea for the Criminal\r\nBeing a reply to Dr. Chapple's work: 'The Fertility\
+  \ of the Unfit', and an Attempt to explain the leading principles of Criminological\
+  \ and Reformatory Science"
+url: http://www.gutenberg.org/ebooks/28632
